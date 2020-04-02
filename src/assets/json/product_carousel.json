@@ -1,0 +1,567 @@
+[{
+    "id":1,
+    "image":"http://localhost:3000/assets/images/1.webp",
+    "title":"Television",
+    "products":[
+        {
+            "id":1,
+            "image":"http://localhost:3000/assets/images/televesion1.webp",
+            "title":"TCL 81 cm (32 inch) HD Ready LED TV (32G300, Black)",
+            "price":8990.00,
+            "rating":65,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":2,
+            "image":"http://localhost:3000/assets/images/televesion2.webp",
+            "title":"Croma 81.28 cm (32 inch) HD Ready Android Smart TV (Black, EL7344)",
+            "price":12490.00,
+            "rating":80,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":3,
+            "image":"http://localhost:3000/assets/images/televesion3.webp",
+            "title":"Croma 81 cm (32 inch) HD Ready LED TV (CREL7318, Black) 3 Years Warranty",
+            "price":8490.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":4,
+            "image":"http://localhost:3000/assets/images/televesion4.webp",
+            "title":"LG 81.28 cm (32 Inch) HD Ready LED Smart TV (32LM636B, Black)",
+            "price":21990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":5,
+            "image":"http://localhost:3000/assets/images/televesion5.webp",
+            "title":"LG 139.70 cm (55 Inch) 4k Ultra HD LED Smart TV (55UM7600, Black)",
+            "price":82990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":6,
+            "image":"http://localhost:3000/assets/images/televesion6.webp",
+            "title":"TCL 81 cm (32 inch) HD LED Smart TV (32S6500, Black)",
+            "price":11990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":7,
+            "image":"http://localhost:3000/assets/images/televesion7.webp",
+            "title":"Sony 124 cm (49 inch) 4k Ultra HD LED Smart Android TV (KD-49X8500F, Black)",
+            "price":69990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":8,
+            "image":"http://localhost:3000/assets/images/televesion8.webp",
+            "title":"Croma 81 cm (32 inch) HD Ready LED TV (CREL7316, Black)",
+            "price":7990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":9,
+            "image":"http://localhost:3000/assets/images/televesion9.webp",
+            "title":"TCL 127 cm (50 inch) 4k Ultra HD LED Smart TV (Black, 50P8E)",
+            "price":30990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        }
+    ]
+},{
+    "id":1,
+    "image":"http://localhost:3000/assets/images/2.webp",
+    "title":"Home Appliances",
+    "products":[
+        {
+            "id":1,
+            "image":"http://localhost:3000/assets/images/home1.webp",
+            "title":"TCL 81 cm (32 inch) HD Ready LED TV (32G300, Black)",
+            "price":8990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":2,
+            "image":"http://localhost:3000/assets/images/home2.webp",
+            "title":"Croma 81.28 cm (32 inch) HD Ready Android Smart TV (Black, EL7344)",
+            "price":12490.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":3,
+            "image":"http://localhost:3000/assets/images/home3.webp",
+            "title":"Croma 81 cm (32 inch) HD Ready LED TV (CREL7318, Black) 3 Years Warranty",
+            "price":8490.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":4,
+            "image":"http://localhost:3000/assets/images/home4.webp",
+            "title":"LG 81.28 cm (32 Inch) HD Ready LED Smart TV (32LM636B, Black)",
+            "price":21990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":5,
+            "image":"http://localhost:3000/assets/images/home5.webp",
+            "title":"LG 139.70 cm (55 Inch) 4k Ultra HD LED Smart TV (55UM7600, Black)",
+            "price":82990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":6,
+            "image":"http://localhost:3000/assets/images/home6.webp",
+            "title":"TCL 81 cm (32 inch) HD LED Smart TV (32S6500, Black)",
+            "price":11990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":7,
+            "image":"http://localhost:3000/assets/images/home7.webp",
+            "title":"Sony 124 cm (49 inch) 4k Ultra HD LED Smart Android TV (KD-49X8500F, Black)",
+            "price":69990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        }
+    ]
+},{
+    "id":1,
+    "image":"http://localhost:3000/assets/images/3.webp",
+    "title":"Kitchen Appliances",
+    "products":[
+        {
+            "id":1,
+            "image":"http://localhost:3000/assets/images/kitchen1.webp",
+            "title":"TCL 81 cm (32 inch) HD Ready LED TV (32G300, Black)",
+            "price":8990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":2,
+            "image":"http://localhost:3000/assets/images/kitchen2.webp",
+            "title":"Croma 81.28 cm (32 inch) HD Ready Android Smart TV (Black, EL7344)",
+            "price":12490.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":3,
+            "image":"http://localhost:3000/assets/images/kitchen3.webp",
+            "title":"Croma 81 cm (32 inch) HD Ready LED TV (CREL7318, Black) 3 Years Warranty",
+            "price":8490.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":4,
+            "image":"http://localhost:3000/assets/images/kitchen4.webp",
+            "title":"LG 81.28 cm (32 Inch) HD Ready LED Smart TV (32LM636B, Black)",
+            "price":21990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":5,
+            "image":"http://localhost:3000/assets/images/kitchen5.webp",
+            "title":"LG 139.70 cm (55 Inch) 4k Ultra HD LED Smart TV (55UM7600, Black)",
+            "price":82990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":6,
+            "image":"http://localhost:3000/assets/images/kitchen6.webp",
+            "title":"TCL 81 cm (32 inch) HD LED Smart TV (32S6500, Black)",
+            "price":11990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":7,
+            "image":"http://localhost:3000/assets/images/kitchen7.webp",
+            "title":"Sony 124 cm (49 inch) 4k Ultra HD LED Smart Android TV (KD-49X8500F, Black)",
+            "price":69990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":8,
+            "image":"http://localhost:3000/assets/images/kitchen8.webp",
+            "title":"Croma 81 cm (32 inch) HD Ready LED TV (CREL7316, Black)",
+            "price":7990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":9,
+            "image":"http://localhost:3000/assets/images/kitchen9.webp",
+            "title":"TCL 127 cm (50 inch) 4k Ultra HD LED Smart TV (Black, 50P8E)",
+            "price":30990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":10,
+            "image":"http://localhost:3000/assets/images/kitchen10.webp",
+            "title":"TCL 127 cm (50 inch) 4k Ultra HD LED Smart TV (Black, 50P8E)",
+            "price":30990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        }
+    ]
+},{
+    "id":1,
+    "image":"http://localhost:3000/assets/images/4.webp",
+    "title":"Phones & Wearables",
+    "products":[
+        {
+            "id":1,
+            "image":"http://localhost:3000/assets/images/phone1.webp",
+            "title":"TCL 81 cm (32 inch) HD Ready LED TV (32G300, Black)",
+            "price":8990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":2,
+            "image":"http://localhost:3000/assets/images/phone2.webp",
+            "title":"Croma 81.28 cm (32 inch) HD Ready Android Smart TV (Black, EL7344)",
+            "price":12490.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":3,
+            "image":"http://localhost:3000/assets/images/phone3.webp",
+            "title":"Croma 81 cm (32 inch) HD Ready LED TV (CREL7318, Black) 3 Years Warranty",
+            "price":8490.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":4,
+            "image":"http://localhost:3000/assets/images/phone4.webp",
+            "title":"LG 81.28 cm (32 Inch) HD Ready LED Smart TV (32LM636B, Black)",
+            "price":21990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":5,
+            "image":"http://localhost:3000/assets/images/phone5.webp",
+            "title":"LG 139.70 cm (55 Inch) 4k Ultra HD LED Smart TV (55UM7600, Black)",
+            "price":82990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":6,
+            "image":"http://localhost:3000/assets/images/phone6.webp",
+            "title":"TCL 81 cm (32 inch) HD LED Smart TV (32S6500, Black)",
+            "price":11990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":7,
+            "image":"http://localhost:3000/assets/images/phone7.webp",
+            "title":"Sony 124 cm (49 inch) 4k Ultra HD LED Smart Android TV (KD-49X8500F, Black)",
+            "price":69990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":8,
+            "image":"http://localhost:3000/assets/images/phone8.webp",
+            "title":"Croma 81 cm (32 inch) HD Ready LED TV (CREL7316, Black)",
+            "price":7990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":9,
+            "image":"http://localhost:3000/assets/images/phone9.webp",
+            "title":"TCL 127 cm (50 inch) 4k Ultra HD LED Smart TV (Black, 50P8E)",
+            "price":30990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        }
+    ]
+},{
+    "id":1,
+    "image":"http://localhost:3000/assets/images/5.webp",
+    "title":"Computers & Tablets",
+    "products":[
+        {
+            "id":1,
+            "image":"http://localhost:3000/assets/images/laptop1.webp",
+            "title":"TCL 81 cm (32 inch) HD Ready LED TV (32G300, Black)",
+            "price":8990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":2,
+            "image":"http://localhost:3000/assets/images/laptop2.webp",
+            "title":"Croma 81.28 cm (32 inch) HD Ready Android Smart TV (Black, EL7344)",
+            "price":12490.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":3,
+            "image":"http://localhost:3000/assets/images/laptop3.webp",
+            "title":"Croma 81 cm (32 inch) HD Ready LED TV (CREL7318, Black) 3 Years Warranty",
+            "price":8490.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":4,
+            "image":"http://localhost:3000/assets/images/laptop4.webp",
+            "title":"LG 81.28 cm (32 Inch) HD Ready LED Smart TV (32LM636B, Black)",
+            "price":21990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":5,
+            "image":"http://localhost:3000/assets/images/laptop5.webp",
+            "title":"LG 139.70 cm (55 Inch) 4k Ultra HD LED Smart TV (55UM7600, Black)",
+            "price":82990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":6,
+            "image":"http://localhost:3000/assets/images/laptop6.webp",
+            "title":"TCL 81 cm (32 inch) HD LED Smart TV (32S6500, Black)",
+            "price":11990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":7,
+            "image":"http://localhost:3000/assets/images/laptop7.webp",
+            "title":"Sony 124 cm (49 inch) 4k Ultra HD LED Smart Android TV (KD-49X8500F, Black)",
+            "price":69990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":8,
+            "image":"http://localhost:3000/assets/images/laptop8.webp",
+            "title":"Croma 81 cm (32 inch) HD Ready LED TV (CREL7316, Black)",
+            "price":7990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":9,
+            "image":"http://localhost:3000/assets/images/laptop9.webp",
+            "title":"TCL 127 cm (50 inch) 4k Ultra HD LED Smart TV (Black, 50P8E)",
+            "price":30990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        }
+    ]
+},{
+    "id":1,
+    "image":"http://localhost:3000/assets/images/6.webp",
+    "title":"Audio & Video",
+    "products":[
+        {
+            "id":1,
+            "image":"http://localhost:3000/assets/images/audio1.webp",
+            "title":"TCL 81 cm (32 inch) HD Ready LED TV (32G300, Black)",
+            "price":8990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":2,
+            "image":"http://localhost:3000/assets/images/audio2.webp",
+            "title":"Croma 81.28 cm (32 inch) HD Ready Android Smart TV (Black, EL7344)",
+            "price":12490.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":3,
+            "image":"http://localhost:3000/assets/images/audio3.webp",
+            "title":"Croma 81 cm (32 inch) HD Ready LED TV (CREL7318, Black) 3 Years Warranty",
+            "price":8490.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":4,
+            "image":"http://localhost:3000/assets/images/audio4.webp",
+            "title":"LG 81.28 cm (32 Inch) HD Ready LED Smart TV (32LM636B, Black)",
+            "price":21990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":5,
+            "image":"http://localhost:3000/assets/images/audio5.webp",
+            "title":"LG 139.70 cm (55 Inch) 4k Ultra HD LED Smart TV (55UM7600, Black)",
+            "price":82990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":6,
+            "image":"http://localhost:3000/assets/images/audio6.webp",
+            "title":"TCL 81 cm (32 inch) HD LED Smart TV (32S6500, Black)",
+            "price":11990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":7,
+            "image":"http://localhost:3000/assets/images/audio7.webp",
+            "title":"Sony 124 cm (49 inch) 4k Ultra HD LED Smart Android TV (KD-49X8500F, Black)",
+            "price":69990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":8,
+            "image":"http://localhost:3000/assets/images/audio8.webp",
+            "title":"Croma 81 cm (32 inch) HD Ready LED TV (CREL7316, Black)",
+            "price":7990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        },
+        {
+            "id":9,
+            "image":"http://localhost:3000/assets/images/audio9.webp",
+            "title":"TCL 127 cm (50 inch) 4k Ultra HD LED Smart TV (Black, 50P8E)",
+            "price":30990.00,
+            "rating":0,
+            "standard_delivery":true,
+            "store_pick_up":false,
+            "three_hour_delivery":false
+        }
+    ]
+}]

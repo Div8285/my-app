@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsMdmf3_c2nqoiMkluexSHKUFeAXstIVRQmjnXUjBFGaLvQHR6",
+        "alt": "carousel image"
+    },
+    {
+        "id": 2,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsMdmf3_c2nqoiMkluexSHKUFeAXstIVRQmjnXUjBFGaLvQHR6",
+        "alt": "carousel image"
+    },
+    {
+        "id": 3,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsMdmf3_c2nqoiMkluexSHKUFeAXstIVRQmjnXUjBFGaLvQHR6",
+        "alt": "carousel image"
+    },
+    {
+        "id": 4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsMdmf3_c2nqoiMkluexSHKUFeAXstIVRQmjnXUjBFGaLvQHR6",
+        "alt": "carousel image"
+    },
+    {
+        "id": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsMdmf3_c2nqoiMkluexSHKUFeAXstIVRQmjnXUjBFGaLvQHR6",
+        "alt": "carousel image"
+    },
+    {
+        "id": 6,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsMdmf3_c2nqoiMkluexSHKUFeAXstIVRQmjnXUjBFGaLvQHR6",
+        "alt": "carousel image"
+    }
+]

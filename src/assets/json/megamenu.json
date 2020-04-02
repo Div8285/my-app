@@ -1,0 +1,45 @@
+[{
+    "id":1,
+    "image":"http://localhost:3000/assets/images/tv.png",
+    "title":"Television"
+    },{
+    "id":1,
+    "image":"http://localhost:3000/assets/images/Home-Appliances.png",
+    "title":"Home Appliances"
+    },{
+    "id":1,
+    "image":"http://localhost:3000/assets/images/kitchen.png",
+    "title":"Kitchen Appliances"
+    },{
+    "id":1,
+    "image":"http://localhost:3000/assets/images/mobile.png",
+    "title":"Phones & Wearables"
+    },{
+    "id":1,
+    "image":"http://localhost:3000/assets/images/computers.png",
+    "title":"Computers & Tablets"
+    },{
+    "id":1,
+    "image":"http://localhost:3000/assets/images/audio.png",
+    "title":"Audio & Video"
+    },{
+    "id":1,
+    "image":"http://localhost:3000/assets/images/camera.png",
+    "title":"Cameras"
+    },{
+    "id":1,
+    "image":"http://localhost:3000/assets/images/Grooming-Wellness.png",
+    "title":"Grooming & Wellness"
+    },{
+    "id":1,
+    "image":"http://localhost:3000/assets/images/gaming.png",
+    "title":"Gaming"
+    },{
+    "id":1,
+    "image":"http://localhost:3000/assets/images/Accessories.png",
+    "title":"Accessories"
+    },{
+    "id":1,
+    "image":"http://localhost:3000/assets/images/brand.png",
+    "title":"Top Brands"
+    }]

@@ -1,0 +1,43 @@
+[{
+    "id":1,
+    "key":"OppoA31",
+    "value":"Oppo A31 (Fantasy White, 64 GB, 4 GB RAM)",
+    "image":"https://assets.croma.com/medias/sys_master/images/images/he8/ha6/8898840723486/-1200Wx1200H-224802-96Wx96H.webp",
+    "alt":"carousel image"
+    },
+    {
+    "id":2,
+    "key":"Oppo",
+    "value":"Oppo A31 (Mystery Black, 64 GB, 4 GB RAM)",
+    "image":"https://assets.croma.com/medias/sys_master/images/images/h94/hb8/8898843508766/-1200Wx1200H-224801-96Wx96H.webp",
+    "alt":"carousel image"
+    },
+    {
+    "id":3,
+    "key":"Realme",
+    "value":"Realme C3 (Frozen Blue, 64 GB, 4 GB RAM)",
+    "image":"https://assets.croma.com/medias/sys_master/images/images/h94/hb8/8898843508766/-1200Wx1200H-224801-96Wx96H.webp",
+    "alt":"carousel image"
+    },
+    {
+    "id":4,
+    "key":"SamsunggalaxyS10Lite",
+    "value":"Samsung Galaxy S10 Lite (Prism Black, 512 GB, 8 GB RAM)",
+    "image":"https://assets.croma.com/medias/sys_master/images/images/hd6/hbc/8897323663390/-1200Wx1200H-224580-96Wx96H.webp",
+    "alt":"carousel image"
+    },
+    {
+    "id":5,
+    "key":"SamsungGalaxyS10Lite",
+    "value":"Samsung Galaxy S10 Lite (Prism White, 512 GB, 8 GB RAM)",
+    "image":"https://assets.croma.com/medias/sys_master/images/images/hc2/h7f/8898759163934/-1200Wx1200H-224568-96Wx96H.webp",
+    "alt":"carousel image"
+    },
+    {
+    "id":6,
+    "key":"Samsung Galaxy S20+",
+    "value":"Samsung Galaxy S20+ (Cosmic Black, 128 GB, 8 GB RAM)",
+    "image":"https://assets.croma.com/medias/sys_master/images/images/h44/h54/8898260828190/-1200Wx1200H-224541-96Wx96H.webp",
+    "alt":"carousel image"
+    }
+    ]

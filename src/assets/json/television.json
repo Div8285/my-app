@@ -1,0 +1,60 @@
+[{
+    "id":1,
+    "product":"LED TVs"
+},
+{
+    "id":2,
+    "product":"QLED TVs"
+},
+{
+    "id":3,
+    "product":"OLED TVs"
+},
+{
+    "id":4,
+    "product":"4k Ultra HD TVs"
+},
+{
+    "id":5,
+    "product":"Smart Tvs"
+},
+
+{
+    "id":6,
+    "product":"Full HD TVs"
+},
+{
+    "id":7,
+    "product":"HD  Ready TVs"
+},
+{
+    "id":8,
+    "product":"Large Screens"
+},
+{
+    "id":9,
+    "product":"Medium Screens"
+},
+
+{
+    "id":10,
+    "product":"Small Screens"
+},
+{
+    "id":11,
+    "product":"Croma LED TVs"
+},
+{
+    "id":12,
+    "product":"TV Accessories"
+},
+{
+    "id":13,
+    "product":"TV Wall Mount Stands"
+},
+{
+    "id":14,
+    "product":"Media Streamming Devices"
+}
+
+]

@@ -1,0 +1,65 @@
+#header {
+    border-bottom: 0;
+    color:#69A2A9;
+    border-color: #ffffff;
+    font-family: 'Roboto',sans-serif !important;
+    text-align: left;
+}
+.borderStyle{
+    border: 1px solid #ffffff;
+    background-color:#c7c7c7;
+    padding:1%;
+}
+.boldStyle{
+    font-weight: bold;
+}
+.dropdownStyle{
+   margin-bottom: 2%;
+   width: 50%;
+   margin-left: 1%;
+   text-align: center;
+}
+.blueColor{
+    color:#69A2A9;
+    font-family: 'Roboto',sans-serif !important;
+    text-align: left;
+}
+#Colorbtn{
+  width: 65px;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  background: none repeat scroll 0px 70px #45A8A2;
+  margin-left: 10px;
+  height: 25px;
+  padding-left: 6px;
+}
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+      width: 100%;
+    }
+  }
+  .blue{
+    color:#69A2A9;
+    font-family: 'Roboto',sans-serif !important;
+
+  }
+  #calcbtn{
+    width: 80px;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    background: none repeat scroll 0px 70px #45A8A2;
+    margin-left: 20px;
+    height: 25px;
+
+}
+#table,td,th{
+  border: 1px solid black;
+} 
+.heading{
+  background-color:#69A2A9;
+  color: rgb(255, 255, 255);
+  font-family: 'Roboto',sans-serif !important;
+  font-weight: 300 !important;
+}
+ 

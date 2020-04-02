@@ -1,0 +1,65 @@
+[
+    {
+        "alt": "logo",
+        "name": "About Croma",
+        "image": "https://www.croma.com/medias/sys_master/images/images/h3f/h97/8842116595742/about-us.png",
+        "url":"https://www.croma.com/about-croma"
+    },
+    {
+        "alt": "logo",
+        "name": "Order Support",
+        "image": "https://www.croma.com/medias/sys_master/images/images/hec/h5d/8842116562974/order-support.png",
+        "url":"https://www.croma.com/shipping-information"
+    },
+    {
+        "alt": "logo",
+        "name": "Terms of Use",
+        "image": "https://www.croma.com/medias/sys_master/images/images/h88/h55/8858356678686/Icon-terms.png",
+        "url":"https://www.croma.com/terms-of-use"
+    },
+    {
+        "alt": "logo",
+        "name": "Company Information",
+        "image": "https://www.croma.com/medias/sys_master/images/images/h5b/h82/8842116825118/company-information.png",
+        "url":"https://www.croma.com/company-information"
+    },
+    {
+        "alt": "logo",
+        "name": "Store Locator",
+        "image": "https://www.croma.com/medias/sys_master/images/images/h32/h96/8855397138462/Icon-locator.png",
+        "url":"https://www.croma.com/store?location=default"
+    },
+    {
+        "alt": "logo",
+        "name": "Bulk Enquiry",
+        "image": "https://www.croma.com/medias/sys_master/images/images/h26/hef/8842116759582/bulk-enquiry.png",
+        "url":"https://www.croma.com/bulk-order-and-gift-card-enquiry?cm_source=HPBulkEnquiry&cm_medium=Footer&cm_campaign=BulkEnquiry"
+    },
+    {
+        "alt": "logo",
+        "name": "E-care",
+        "image": "https://www.croma.com/medias/sys_master/root/h10/h93/8888525750302/tree-icon.png",
+        "url":"https://www.croma.com/lp-croma-e-care"
+    },
+    {
+        "alt": "logo",
+        "name": "Site Map",
+        "image": "https://www.croma.com/medias/sys_master/images/images/h61/hd9/8842116792350/site-map.png",
+        "url":"https://www.croma.com/site-map"
+    },
+    {
+        "alt": "logo",
+        "name": "FAQ",
+        "image": "https://www.croma.com/medias/sys_master/images/images/h90/h0b/8842116923422/footer-faq.png",
+        "url":"https://www.croma.com/faq"
+    },
+    {
+        "alt": "logo",
+        "name": "Gift Card",
+        "image": "https://www.croma.com/medias/sys_master/images/images/he5/hb3/8807112507422/footer-gift.png",
+        "url":"https://www.croma.com/gift-cards"
+    },
+    {
+   "logo":"https://cdn.dynamicyield.com/api/8767550/images/479fd90e951f__Image4.png"
+    }
+]

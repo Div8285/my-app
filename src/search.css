@@ -1,0 +1,76 @@
+ul{
+    list-style-type: none;
+    position: absolute;
+    z-index: 99;
+    padding-inline-start: 8px !important;
+}
+
+.searchDropdown{
+    width:350px;
+    border:0.1px solid #d6d6d6;
+    padding: 10px;
+    background-color:white;
+    margin-right: -125px;
+    text-decoration: none !important;
+}
+
+.searchbox{
+    margin-left:8px;
+    width:300px;
+    border-color:white;
+}
+
+.search-btn {
+    width: 40px;
+    height: 41px;
+    display: inline-block;
+    background: url(https://www.croma.com/_ui/responsive/common/images/serach-icon.png) no-repeat 5px 7px;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    right:10%;
+    margin-top: -1%;
+}
+.productHighlight{
+    padding: 0 10px;
+}
+.productHighlight:hover{
+    border: 1px solid blue;
+    background: #45a8a2;
+}
+.productList{
+    text-decoration:none;
+    color: black;
+}
+
+.productList:hover{
+    text-decoration: none;
+    color: black;
+}
+.img_responsive{
+ height : 30px;
+}
+
+element {
+
+    display: block;
+
+}
+.glyphicon {
+
+    color: #666666;
+    font-weight: 20;
+
+
+}
+.close-icon {
+    position: absolute;  
+    background: white;
+    border: 0;
+    height:20px;
+    width:3
+  
+  
+
+}
+
