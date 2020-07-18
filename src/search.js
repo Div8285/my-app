@@ -8,22 +8,34 @@ export default function Search() {
     const [searchList, setSearchList] = useState([]);
     const [searched, setSearched] = useState(false);
     const [showSuggestions, setShowSuggestions] = useState(false);
+    const [showCross, setShowCross] = useState(false);
+
     function onChange(e) {
         setValue(e.target.value);
         searchFilterFunction(e.target.value)
+        
+    }
+    function onClick(){
+        setShowCross(true)
     }
     function crossClick(){
       setValue('')
-      searchFilterFunction()
+      setShowCross(false)
     }
     function searchFilterFunction(text) {
         if (!text) {
             setSearchList([])
         }
         else {
-            const results = Data.map((b => { return (b.value) })).filter(a =>
-                a.toLowerCase().includes(text.toLowerCase())
-            );
+           
+                const results = Data.filter(function(item){
+               return item.value.toLowerCase().includes(text.toLowerCase())
+            }).map(function({id, key, value, image, alt}){
+                return {id, key, value,image};
+            });
+            console.log(results);
+
+             
             setSearchList(results);
             setSearched(true);
             setShowSuggestions(true);
@@ -36,13 +48,15 @@ export default function Search() {
                 className="searchbox"
                 value={value1}
                 onChange={onChange}
+                onClick = {onClick}
                 type="text"
                 onClear={() => {
                     setSearched(false);
                     setShowSuggestions(false);
                 }}
             />
-            <button className="close-icon glyphicon"  onClick= {crossClick}>&#10006;</button>
+            
+            {showCross && <button className="close-icon glyphicon"  onClick= {crossClick}>&#10006;</button> }
             
             {searched && showSuggestions && (
                 <div>
@@ -50,8 +64,8 @@ export default function Search() {
                         {searchList.map(item => (
                             <li className="searchDropdown" onClick={crossClick}>
                                 <div className="productHighlight">
-                                    {item}                               
-                                <img src="https://www.croma.com/medias/sys_master/images/images/hd5/hea/8807756169246/mobile.png" alt="dfg" className="img_responsive" />
+                                    {item.value}                               
+                                <img src={item.image} alt={item.alt} className="img_responsive" />
                                 </div>
                             </li>      
                         ))}

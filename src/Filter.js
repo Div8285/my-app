@@ -2,10 +2,6 @@ import React ,{useState} from 'react';
 import './Filter.css';
 import Collapsible from 'react-collapsible';
 import Modal from 'react-bootstrap/Modal';
-
- 
-
-
 export default function Filter() {
   const [checkedItems, setCheckedItems] = useState(false);
   
